@@ -14,72 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "twoControls",
         "Elements",
-        "inptNumberOne.json"
+        "jmbtControl.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "twoControls",
         "Elements",
-        "inptNumberTwo.json"
+        "lblMessage2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "twoControls",
         "Elements",
-        "btnAddition.json"
+        "pgsbControl.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "twoControls",
         "Elements",
-        "btnMultiplication.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "btnClear.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "btnChangeForm3.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "inptUserName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "lblSolution.json"
+        "btnChanges.json"
       ]
     }
   ],
@@ -89,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "calculator",
+  "id": "twoControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
